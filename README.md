@@ -41,7 +41,30 @@ Through robust data preprocessing, feature engineering, and model evaluation, **
 - Matplotlib, Seaborn (for visualization)
 
 ## 📊 Visual Highlights
-*(plots to be added here)*
+
+<h4>🎯 Target Variable Distribution</h4>
+<img src="./images/target-variable-distribution.png" width="500"/>
+
+<h4>📉 Correlation Heatmap</h4>
+<img src="./images/correlation-heatmap.png" width="500"/>
+
+<h4>🔍 Heart Attack Prediction Pipeline</h4>
+<img src="./images/heartattack-prediction-pipeline.png" width="500"/>
+
+<h4>📈 ROC Curve</h4>
+<img src="./images/roc-curve.png" width="500"/>
+
+<h4>📊 Precision-Recall Curve</h4>
+<img src="./images/precision-recall-curve.png" width="500"/>
+
+<h4>✅ Accuracy Score</h4>
+<img src="./images/accuracy-score.png" width="500"/>
+
+<h4>🔁 Confusion Matrix</h4>
+<img src="./images/confusion-matrix.png" width="500"/>
+
+<h4>🔥 Heatmap (Feature Influence)</h4>
+<img src="./images/heatmap.png" width="500"/>
 
 ## 📁 Folder Structure
 ```
